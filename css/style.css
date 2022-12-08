@@ -99,22 +99,22 @@ main {
     transform: scale(1.15);
 }
 .sidebar:hover {
-    background-image: url("/src/gifs/Sidebar.gif");
+    background-image: url("./gifs/Sidebar.gif");
     background-size: cover;
     background-position: center;
 }
 .mobilefirst:hover {
-    background-image: url("/src/gifs/MobileFirst.gif");
+    background-image: url("./gifs/MobileFirst.gif");
     background-size: cover;
     background-position: center;
 }
 .twitter:hover {
-    background-image: url("/src/gifs/Twitter.gif");
+    background-image: url("./gifs/Twitter.gif");
     background-size: cover;
     background-position: lef;
 }
 .platzi:hover {
-    background-image: url("/src/gifs/PlatziDay.gif");
+    background-image: url("./gifs/PlatziDay.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
